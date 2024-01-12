@@ -1,5 +1,5 @@
 <?php
-	//
+	//Bru carreras
     // Mètodes de Dompdf --> https://gennco.com.co/ANT/dompdf/DOMPDF.html
     // Codi Font --> https://github.com/dompdf/dompdf
     //
